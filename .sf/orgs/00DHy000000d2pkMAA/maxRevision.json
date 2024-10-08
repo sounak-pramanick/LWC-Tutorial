@@ -1,0 +1,1529 @@
+{
+    "serverMaxRevisionCounter": 987,
+    "sourceMembers": {
+        "ApexPage__lmsVisualForceDemo": {
+            "serverRevisionCounter": 153,
+            "lastRetrievedFromServer": 153,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__lmsAuraComponent": {
+            "serverRevisionCounter": 135,
+            "lastRetrievedFromServer": 135,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__AuraLwcCommunication": {
+            "serverRevisionCounter": 144,
+            "lastRetrievedFromServer": 144,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponent.cmp": {
+            "serverRevisionCounter": 136,
+            "lastRetrievedFromServer": 136,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponentController.js": {
+            "serverRevisionCounter": 137,
+            "lastRetrievedFromServer": 137,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponentHelper.js": {
+            "serverRevisionCounter": 138,
+            "lastRetrievedFromServer": 138,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponent.css": {
+            "serverRevisionCounter": 139,
+            "lastRetrievedFromServer": 139,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponent.auradoc": {
+            "serverRevisionCounter": 140,
+            "lastRetrievedFromServer": 140,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponentRenderer.js": {
+            "serverRevisionCounter": 141,
+            "lastRetrievedFromServer": 141,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponent.design": {
+            "serverRevisionCounter": 142,
+            "lastRetrievedFromServer": 142,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__lmsAuraComponent/lmsAuraComponent.svg": {
+            "serverRevisionCounter": 143,
+            "lastRetrievedFromServer": 143,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunication.cmp": {
+            "serverRevisionCounter": 152,
+            "lastRetrievedFromServer": 152,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunicationController.js": {
+            "serverRevisionCounter": 148,
+            "lastRetrievedFromServer": 148,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunicationHelper.js": {
+            "serverRevisionCounter": 149,
+            "lastRetrievedFromServer": 149,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunication.css": {
+            "serverRevisionCounter": 151,
+            "lastRetrievedFromServer": 151,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunication.auradoc": {
+            "serverRevisionCounter": 145,
+            "lastRetrievedFromServer": 145,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunicationRenderer.js": {
+            "serverRevisionCounter": 146,
+            "lastRetrievedFromServer": 146,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunication.design": {
+            "serverRevisionCounter": 147,
+            "lastRetrievedFromServer": 147,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__AuraLwcCommunication/AuraLwcCommunication.svg": {
+            "serverRevisionCounter": 150,
+            "lastRetrievedFromServer": 150,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__c2pModalComponent": {
+            "serverRevisionCounter": 2,
+            "lastRetrievedFromServer": 2,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__c2pParentComponent": {
+            "serverRevisionCounter": 6,
+            "lastRetrievedFromServer": 6,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__conditionalRendering": {
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": 10,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__cssChildDemo": {
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": 14,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__cssInLwc": {
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": 18,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__cssParentDemo": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": 23,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__customLightningComponent": {
+            "serverRevisionCounter": 28,
+            "lastRetrievedFromServer": 28,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__helloChildComponent": {
+            "serverRevisionCounter": 32,
+            "lastRetrievedFromServer": 32,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__helloParentComponent": {
+            "serverRevisionCounter": 36,
+            "lastRetrievedFromServer": 36,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__helloWorld": {
+            "serverRevisionCounter": 40,
+            "lastRetrievedFromServer": 40,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__internationalization": {
+            "serverRevisionCounter": 44,
+            "lastRetrievedFromServer": 44,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lifeCycleChild": {
+            "serverRevisionCounter": 48,
+            "lastRetrievedFromServer": 48,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lifeCycleParent": {
+            "serverRevisionCounter": 52,
+            "lastRetrievedFromServer": 52,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lmsComponentA": {
+            "serverRevisionCounter": 56,
+            "lastRetrievedFromServer": 56,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lmsComponentX": {
+            "serverRevisionCounter": 60,
+            "lastRetrievedFromServer": 60,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__looping": {
+            "serverRevisionCounter": 64,
+            "lastRetrievedFromServer": 64,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lwcAuraCommunication": {
+            "serverRevisionCounter": 68,
+            "lastRetrievedFromServer": 68,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__p2cAlertComponent": {
+            "serverRevisionCounter": 72,
+            "lastRetrievedFromServer": 72,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__p2cCarouselComponent": {
+            "serverRevisionCounter": 76,
+            "lastRetrievedFromServer": 76,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__p2cParentComponent": {
+            "serverRevisionCounter": 80,
+            "lastRetrievedFromServer": 80,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__p2cProgressComponent": {
+            "serverRevisionCounter": 84,
+            "lastRetrievedFromServer": 84,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__p2cSliderComponent": {
+            "serverRevisionCounter": 88,
+            "lastRetrievedFromServer": 88,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__pubsub": {
+            "serverRevisionCounter": 92,
+            "lastRetrievedFromServer": 92,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__pubsubComponentA": {
+            "serverRevisionCounter": 95,
+            "lastRetrievedFromServer": 95,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__pubsubComponentB": {
+            "serverRevisionCounter": 99,
+            "lastRetrievedFromServer": 99,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__quizApp": {
+            "serverRevisionCounter": 103,
+            "lastRetrievedFromServer": 103,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__recordIdAndObjectName": {
+            "serverRevisionCounter": 164,
+            "lastRetrievedFromServer": 164,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__reusableComponentDemo": {
+            "serverRevisionCounter": 111,
+            "lastRetrievedFromServer": 111,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__setterDemoChild": {
+            "serverRevisionCounter": 115,
+            "lastRetrievedFromServer": 115,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__setterDemoParent": {
+            "serverRevisionCounter": 119,
+            "lastRetrievedFromServer": 119,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__slotChildDemo": {
+            "serverRevisionCounter": 123,
+            "lastRetrievedFromServer": 123,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__slotParentDemo": {
+            "serverRevisionCounter": 127,
+            "lastRetrievedFromServer": 127,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__staticImages": {
+            "serverRevisionCounter": 131,
+            "lastRetrievedFromServer": 131,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloParentComponent/helloParentComponent.js-meta.xml": {
+            "serverRevisionCounter": 38,
+            "lastRetrievedFromServer": 38,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloParentComponent/helloParentComponent.js": {
+            "serverRevisionCounter": 39,
+            "lastRetrievedFromServer": 39,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloParentComponent/helloParentComponent.html": {
+            "serverRevisionCounter": 37,
+            "lastRetrievedFromServer": 37,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lwcAuraCommunication/lwcAuraCommunication.js-meta.xml": {
+            "serverRevisionCounter": 69,
+            "lastRetrievedFromServer": 69,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lwcAuraCommunication/lwcAuraCommunication.html": {
+            "serverRevisionCounter": 70,
+            "lastRetrievedFromServer": 70,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lwcAuraCommunication/lwcAuraCommunication.js": {
+            "serverRevisionCounter": 71,
+            "lastRetrievedFromServer": 71,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__quizApp/quizApp.js-meta.xml": {
+            "serverRevisionCounter": 104,
+            "lastRetrievedFromServer": 104,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__quizApp/quizApp.html": {
+            "serverRevisionCounter": 105,
+            "lastRetrievedFromServer": 105,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__quizApp/quizApp.js": {
+            "serverRevisionCounter": 106,
+            "lastRetrievedFromServer": 106,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customLightningComponent/customLightningComponent.html": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": 29,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customLightningComponent/customLightningComponent.js-meta.xml": {
+            "serverRevisionCounter": 30,
+            "lastRetrievedFromServer": 30,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__customLightningComponent/customLightningComponent.js": {
+            "serverRevisionCounter": 31,
+            "lastRetrievedFromServer": 31,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__setterDemoChild/setterDemoChild.js": {
+            "serverRevisionCounter": 116,
+            "lastRetrievedFromServer": 116,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__setterDemoChild/setterDemoChild.js-meta.xml": {
+            "serverRevisionCounter": 117,
+            "lastRetrievedFromServer": 117,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__setterDemoChild/setterDemoChild.html": {
+            "serverRevisionCounter": 118,
+            "lastRetrievedFromServer": 118,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__slotParentDemo/slotParentDemo.html": {
+            "serverRevisionCounter": 128,
+            "lastRetrievedFromServer": 128,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__slotParentDemo/slotParentDemo.js-meta.xml": {
+            "serverRevisionCounter": 129,
+            "lastRetrievedFromServer": 129,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__slotParentDemo/slotParentDemo.js": {
+            "serverRevisionCounter": 130,
+            "lastRetrievedFromServer": 130,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__internationalization/internationalization.js": {
+            "serverRevisionCounter": 45,
+            "lastRetrievedFromServer": 45,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__internationalization/internationalization.js-meta.xml": {
+            "serverRevisionCounter": 46,
+            "lastRetrievedFromServer": 46,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__internationalization/internationalization.html": {
+            "serverRevisionCounter": 47,
+            "lastRetrievedFromServer": 47,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cParentComponent/p2cParentComponent.js-meta.xml": {
+            "serverRevisionCounter": 81,
+            "lastRetrievedFromServer": 81,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cParentComponent/p2cParentComponent.js": {
+            "serverRevisionCounter": 82,
+            "lastRetrievedFromServer": 82,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cParentComponent/p2cParentComponent.html": {
+            "serverRevisionCounter": 83,
+            "lastRetrievedFromServer": 83,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cSliderComponent/p2cSliderComponent.js": {
+            "serverRevisionCounter": 89,
+            "lastRetrievedFromServer": 89,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cSliderComponent/p2cSliderComponent.js-meta.xml": {
+            "serverRevisionCounter": 90,
+            "lastRetrievedFromServer": 90,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cSliderComponent/p2cSliderComponent.html": {
+            "serverRevisionCounter": 91,
+            "lastRetrievedFromServer": 91,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsubComponentB/pubsubComponentB.js": {
+            "serverRevisionCounter": 100,
+            "lastRetrievedFromServer": 100,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsubComponentB/pubsubComponentB.html": {
+            "serverRevisionCounter": 101,
+            "lastRetrievedFromServer": 101,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsubComponentB/pubsubComponentB.js-meta.xml": {
+            "serverRevisionCounter": 102,
+            "lastRetrievedFromServer": 102,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsubComponentA/pubsubComponentA.js-meta.xml": {
+            "serverRevisionCounter": 96,
+            "lastRetrievedFromServer": 96,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsubComponentA/pubsubComponentA.html": {
+            "serverRevisionCounter": 97,
+            "lastRetrievedFromServer": 97,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsubComponentA/pubsubComponentA.js": {
+            "serverRevisionCounter": 98,
+            "lastRetrievedFromServer": 98,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lmsComponentA/lmsComponentA.js": {
+            "serverRevisionCounter": 57,
+            "lastRetrievedFromServer": 57,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lmsComponentA/lmsComponentA.js-meta.xml": {
+            "serverRevisionCounter": 58,
+            "lastRetrievedFromServer": 58,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lmsComponentA/lmsComponentA.html": {
+            "serverRevisionCounter": 59,
+            "lastRetrievedFromServer": 59,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsub/pubsub.js": {
+            "serverRevisionCounter": 93,
+            "lastRetrievedFromServer": 93,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__pubsub/pubsub.js-meta.xml": {
+            "serverRevisionCounter": 94,
+            "lastRetrievedFromServer": 94,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloChildComponent/helloChildComponent.js": {
+            "serverRevisionCounter": 33,
+            "lastRetrievedFromServer": 33,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloChildComponent/helloChildComponent.js-meta.xml": {
+            "serverRevisionCounter": 34,
+            "lastRetrievedFromServer": 34,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloChildComponent/helloChildComponent.html": {
+            "serverRevisionCounter": 35,
+            "lastRetrievedFromServer": 35,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lifeCycleChild/lifeCycleChild.js-meta.xml": {
+            "serverRevisionCounter": 49,
+            "lastRetrievedFromServer": 49,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lifeCycleChild/lifeCycleChild.html": {
+            "serverRevisionCounter": 50,
+            "lastRetrievedFromServer": 50,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lifeCycleChild/lifeCycleChild.js": {
+            "serverRevisionCounter": 51,
+            "lastRetrievedFromServer": 51,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lmsComponentX/lmsComponentX.js-meta.xml": {
+            "serverRevisionCounter": 63,
+            "lastRetrievedFromServer": 63,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lmsComponentX/lmsComponentX.js": {
+            "serverRevisionCounter": 61,
+            "lastRetrievedFromServer": 61,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lmsComponentX/lmsComponentX.html": {
+            "serverRevisionCounter": 62,
+            "lastRetrievedFromServer": 62,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cCarouselComponent/p2cCarouselComponent.js-meta.xml": {
+            "serverRevisionCounter": 77,
+            "lastRetrievedFromServer": 77,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cCarouselComponent/p2cCarouselComponent.html": {
+            "serverRevisionCounter": 78,
+            "lastRetrievedFromServer": 78,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cCarouselComponent/p2cCarouselComponent.js": {
+            "serverRevisionCounter": 79,
+            "lastRetrievedFromServer": 79,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__reusableComponentDemo/reusableComponentDemo.js-meta.xml": {
+            "serverRevisionCounter": 112,
+            "lastRetrievedFromServer": 112,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__reusableComponentDemo/reusableComponentDemo.html": {
+            "serverRevisionCounter": 113,
+            "lastRetrievedFromServer": 113,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__reusableComponentDemo/reusableComponentDemo.js": {
+            "serverRevisionCounter": 114,
+            "lastRetrievedFromServer": 114,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__looping/looping.html": {
+            "serverRevisionCounter": 65,
+            "lastRetrievedFromServer": 65,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__looping/looping.js-meta.xml": {
+            "serverRevisionCounter": 66,
+            "lastRetrievedFromServer": 66,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__looping/looping.js": {
+            "serverRevisionCounter": 67,
+            "lastRetrievedFromServer": 67,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__setterDemoParent/setterDemoParent.js": {
+            "serverRevisionCounter": 120,
+            "lastRetrievedFromServer": 120,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__setterDemoParent/setterDemoParent.js-meta.xml": {
+            "serverRevisionCounter": 121,
+            "lastRetrievedFromServer": 121,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__setterDemoParent/setterDemoParent.html": {
+            "serverRevisionCounter": 122,
+            "lastRetrievedFromServer": 122,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssInLwc/cssInLwc.js": {
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": 19,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssInLwc/cssInLwc.css": {
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": 20,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssInLwc/cssInLwc.js-meta.xml": {
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": 21,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssInLwc/cssInLwc.html": {
+            "serverRevisionCounter": 22,
+            "lastRetrievedFromServer": 22,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__c2pModalComponent/c2pModalComponent.js": {
+            "serverRevisionCounter": 3,
+            "lastRetrievedFromServer": 3,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__c2pModalComponent/c2pModalComponent.js-meta.xml": {
+            "serverRevisionCounter": 4,
+            "lastRetrievedFromServer": 4,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__c2pModalComponent/c2pModalComponent.html": {
+            "serverRevisionCounter": 5,
+            "lastRetrievedFromServer": 5,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lifeCycleParent/lifeCycleParent.html": {
+            "serverRevisionCounter": 53,
+            "lastRetrievedFromServer": 53,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lifeCycleParent/lifeCycleParent.js-meta.xml": {
+            "serverRevisionCounter": 54,
+            "lastRetrievedFromServer": 54,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lifeCycleParent/lifeCycleParent.js": {
+            "serverRevisionCounter": 55,
+            "lastRetrievedFromServer": 55,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__c2pParentComponent/c2pParentComponent.js": {
+            "serverRevisionCounter": 7,
+            "lastRetrievedFromServer": 7,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__c2pParentComponent/c2pParentComponent.js-meta.xml": {
+            "serverRevisionCounter": 8,
+            "lastRetrievedFromServer": 8,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__c2pParentComponent/c2pParentComponent.html": {
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": 9,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__staticImages/staticImages.js": {
+            "serverRevisionCounter": 132,
+            "lastRetrievedFromServer": 132,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__staticImages/staticImages.js-meta.xml": {
+            "serverRevisionCounter": 133,
+            "lastRetrievedFromServer": 133,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__staticImages/staticImages.html": {
+            "serverRevisionCounter": 134,
+            "lastRetrievedFromServer": 134,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordIdAndObjectName/recordIdAndObjectName.js-meta.xml": {
+            "serverRevisionCounter": 165,
+            "lastRetrievedFromServer": 165,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordIdAndObjectName/recordIdAndObjectName.html": {
+            "serverRevisionCounter": 166,
+            "lastRetrievedFromServer": 166,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordIdAndObjectName/recordIdAndObjectName.js": {
+            "serverRevisionCounter": 167,
+            "lastRetrievedFromServer": 167,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssChildDemo/cssChildDemo.html": {
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": 15,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssChildDemo/cssChildDemo.js-meta.xml": {
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": 16,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssChildDemo/cssChildDemo.js": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": 17,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cAlertComponent/p2cAlertComponent.js": {
+            "serverRevisionCounter": 73,
+            "lastRetrievedFromServer": 73,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cAlertComponent/p2cAlertComponent.html": {
+            "serverRevisionCounter": 74,
+            "lastRetrievedFromServer": 74,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cAlertComponent/p2cAlertComponent.js-meta.xml": {
+            "serverRevisionCounter": 75,
+            "lastRetrievedFromServer": 75,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssParentDemo/cssParentDemo.js-meta.xml": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssParentDemo/cssParentDemo.css": {
+            "serverRevisionCounter": 25,
+            "lastRetrievedFromServer": 25,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssParentDemo/cssParentDemo.js": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__cssParentDemo/cssParentDemo.html": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": 27,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cProgressComponent/p2cProgressComponent.js": {
+            "serverRevisionCounter": 85,
+            "lastRetrievedFromServer": 85,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cProgressComponent/p2cProgressComponent.html": {
+            "serverRevisionCounter": 86,
+            "lastRetrievedFromServer": 86,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__p2cProgressComponent/p2cProgressComponent.js-meta.xml": {
+            "serverRevisionCounter": 87,
+            "lastRetrievedFromServer": 87,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__slotChildDemo/slotChildDemo.html": {
+            "serverRevisionCounter": 124,
+            "lastRetrievedFromServer": 124,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__slotChildDemo/slotChildDemo.js": {
+            "serverRevisionCounter": 125,
+            "lastRetrievedFromServer": 125,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__slotChildDemo/slotChildDemo.js-meta.xml": {
+            "serverRevisionCounter": 126,
+            "lastRetrievedFromServer": 126,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloWorld/helloWorld.js-meta.xml": {
+            "serverRevisionCounter": 43,
+            "lastRetrievedFromServer": 43,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloWorld/helloWorld.html": {
+            "serverRevisionCounter": 41,
+            "lastRetrievedFromServer": 41,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__helloWorld/helloWorld.js": {
+            "serverRevisionCounter": 42,
+            "lastRetrievedFromServer": 42,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__conditionalRendering/conditionalRendering.js": {
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__conditionalRendering/conditionalRendering.js-meta.xml": {
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": 12,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__conditionalRendering/conditionalRendering.html": {
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningMessageChannel__SampleMessageChannel": {
+            "serverRevisionCounter": 1,
+            "lastRetrievedFromServer": 1,
+            "memberType": "LightningMessageChannel",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 163,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "CustomApplication__LWC_Zero_to_Hero": {
+            "serverRevisionCounter": 162,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomApplication",
+            "isNameObsolete": false
+        },
+        "FlexiPage__LWC_Zero_to_Hero_UtilityBar": {
+            "serverRevisionCounter": 159,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 160,
+            "lastRetrievedFromServer": null,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        },
+        "Profile__B2B Reordering Portal Buyer Profile": {
+            "serverRevisionCounter": 181,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Read Only": {
+            "serverRevisionCounter": 177,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Custom: Sales Profile": {
+            "serverRevisionCounter": 178,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Custom: Marketing Profile": {
+            "serverRevisionCounter": 180,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Custom: Support Profile": {
+            "serverRevisionCounter": 179,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "CustomTab__Static_Resources_Context_and_Toast": {
+            "serverRevisionCounter": 176,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Static_Resources_Context_and_Toast": {
+            "serverRevisionCounter": 185,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Account_Record_Page": {
+            "serverRevisionCounter": 237,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Opportunity_Record_Page": {
+            "serverRevisionCounter": 291,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "CustomObject__Account": {
+            "serverRevisionCounter": 236,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomObject__Opportunity": {
+            "serverRevisionCounter": 290,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__notifications": {
+            "serverRevisionCounter": 307,
+            "lastRetrievedFromServer": 307,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__notifications/notifications.js-meta.xml": {
+            "serverRevisionCounter": 310,
+            "lastRetrievedFromServer": 310,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__notifications/notifications.html": {
+            "serverRevisionCounter": 308,
+            "lastRetrievedFromServer": 308,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__notifications/notifications.js": {
+            "serverRevisionCounter": 309,
+            "lastRetrievedFromServer": 309,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__memoryGameLwc": {
+            "serverRevisionCounter": 361,
+            "lastRetrievedFromServer": 361,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__memoryGameLwc/memoryGameLwc.css": {
+            "serverRevisionCounter": 362,
+            "lastRetrievedFromServer": 362,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__memoryGameLwc/memoryGameLwc.js-meta.xml": {
+            "serverRevisionCounter": 363,
+            "lastRetrievedFromServer": 363,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__memoryGameLwc/memoryGameLwc.html": {
+            "serverRevisionCounter": 364,
+            "lastRetrievedFromServer": 364,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__memoryGameLwc/memoryGameLwc.js": {
+            "serverRevisionCounter": 365,
+            "lastRetrievedFromServer": 365,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "CustomTab__Memory_Game_in_LWC": {
+            "serverRevisionCounter": 321,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "StaticResource__fontawesome": {
+            "serverRevisionCounter": 331,
+            "lastRetrievedFromServer": null,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Memory_Game_in_LWC": {
+            "serverRevisionCounter": 330,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToHome": {
+            "serverRevisionCounter": 357,
+            "lastRetrievedFromServer": 357,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToHome/navigateToHome.html": {
+            "serverRevisionCounter": 360,
+            "lastRetrievedFromServer": 360,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToHome/navigateToHome.js": {
+            "serverRevisionCounter": 358,
+            "lastRetrievedFromServer": 358,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToHome/navigateToHome.js-meta.xml": {
+            "serverRevisionCounter": 359,
+            "lastRetrievedFromServer": 359,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "CustomTab__Navigations": {
+            "serverRevisionCounter": 343,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Navigations": {
+            "serverRevisionCounter": 352,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToObjectPage": {
+            "serverRevisionCounter": 416,
+            "lastRetrievedFromServer": 416,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToObjectPage/navigateToObjectPage.html": {
+            "serverRevisionCounter": 417,
+            "lastRetrievedFromServer": 417,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToObjectPage/navigateToObjectPage.js": {
+            "serverRevisionCounter": 418,
+            "lastRetrievedFromServer": 418,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToObjectPage/navigateToObjectPage.js-meta.xml": {
+            "serverRevisionCounter": 419,
+            "lastRetrievedFromServer": 419,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToRecordPage": {
+            "serverRevisionCounter": 427,
+            "lastRetrievedFromServer": 427,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToRecordPage/navigateToRecordPage.html": {
+            "serverRevisionCounter": 428,
+            "lastRetrievedFromServer": 428,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToRecordPage/navigateToRecordPage.js": {
+            "serverRevisionCounter": 429,
+            "lastRetrievedFromServer": 429,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToRecordPage/navigateToRecordPage.js-meta.xml": {
+            "serverRevisionCounter": 430,
+            "lastRetrievedFromServer": 430,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToNavItemPage": {
+            "serverRevisionCounter": 442,
+            "lastRetrievedFromServer": 442,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToNavItemPage/navigateToNavItemPage.html": {
+            "serverRevisionCounter": 443,
+            "lastRetrievedFromServer": 443,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToNavItemPage/navigateToNavItemPage.js-meta.xml": {
+            "serverRevisionCounter": 444,
+            "lastRetrievedFromServer": 444,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToNavItemPage/navigateToNavItemPage.js": {
+            "serverRevisionCounter": 445,
+            "lastRetrievedFromServer": 445,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToRelatedRelationshipPage": {
+            "serverRevisionCounter": 475,
+            "lastRetrievedFromServer": 475,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToRelatedRelationshipPage/navigateToRelatedRelationshipPage.js-meta.xml": {
+            "serverRevisionCounter": 476,
+            "lastRetrievedFromServer": 476,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToRelatedRelationshipPage/navigateToRelatedRelationshipPage.html": {
+            "serverRevisionCounter": 477,
+            "lastRetrievedFromServer": 477,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToRelatedRelationshipPage/navigateToRelatedRelationshipPage.js": {
+            "serverRevisionCounter": 478,
+            "lastRetrievedFromServer": 478,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToWebPage": {
+            "serverRevisionCounter": 483,
+            "lastRetrievedFromServer": 483,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToWebPage/navigateToWebPage.js-meta.xml": {
+            "serverRevisionCounter": 484,
+            "lastRetrievedFromServer": 484,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToWebPage/navigateToWebPage.html": {
+            "serverRevisionCounter": 485,
+            "lastRetrievedFromServer": 485,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToWebPage/navigateToWebPage.js": {
+            "serverRevisionCounter": 486,
+            "lastRetrievedFromServer": 486,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToLwc": {
+            "serverRevisionCounter": 575,
+            "lastRetrievedFromServer": 528,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigationLwcTarget": {
+            "serverRevisionCounter": 587,
+            "lastRetrievedFromServer": 532,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToLwc/navigateToLwc.js-meta.xml": {
+            "serverRevisionCounter": 529,
+            "lastRetrievedFromServer": 529,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToLwc/navigateToLwc.js": {
+            "serverRevisionCounter": 572,
+            "lastRetrievedFromServer": 530,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToLwc/navigateToLwc.html": {
+            "serverRevisionCounter": 570,
+            "lastRetrievedFromServer": 531,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigationLwcTarget/navigationLwcTarget.html": {
+            "serverRevisionCounter": 584,
+            "lastRetrievedFromServer": 533,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigationLwcTarget/navigationLwcTarget.js-meta.xml": {
+            "serverRevisionCounter": 534,
+            "lastRetrievedFromServer": 534,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigationLwcTarget/navigationLwcTarget.js": {
+            "serverRevisionCounter": 582,
+            "lastRetrievedFromServer": 535,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__currentPageReferenceDemo": {
+            "serverRevisionCounter": 649,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__currentPageReference": {
+            "serverRevisionCounter": 599,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__currentPageReference/currentPageReference.js": {
+            "serverRevisionCounter": 590,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__currentPageReference/currentPageReference.html": {
+            "serverRevisionCounter": 598,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__currentPageReference/currentPageReference.js-meta.xml": {
+            "serverRevisionCounter": 594,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__currentPageReferenceDemo/currentPageReferenceDemo.js": {
+            "serverRevisionCounter": 644,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__currentPageReferenceDemo/currentPageReferenceDemo.html": {
+            "serverRevisionCounter": 646,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__currentPageReferenceDemo/currentPageReferenceDemo.js-meta.xml": {
+            "serverRevisionCounter": 606,
+            "lastRetrievedFromServer": null,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__navigateToAuraComponent": {
+            "serverRevisionCounter": 650,
+            "lastRetrievedFromServer": 650,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__recordFormDemo": {
+            "serverRevisionCounter": 675,
+            "lastRetrievedFromServer": 675,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordFormDemo/recordFormDemo.js-meta.xml": {
+            "serverRevisionCounter": 676,
+            "lastRetrievedFromServer": 676,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordFormDemo/recordFormDemo.js": {
+            "serverRevisionCounter": 677,
+            "lastRetrievedFromServer": 677,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordFormDemo/recordFormDemo.html": {
+            "serverRevisionCounter": 678,
+            "lastRetrievedFromServer": 678,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToAuraComponent/navigateToAuraComponent.html": {
+            "serverRevisionCounter": 651,
+            "lastRetrievedFromServer": 651,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToAuraComponent/navigateToAuraComponent.js-meta.xml": {
+            "serverRevisionCounter": 652,
+            "lastRetrievedFromServer": 652,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__navigateToAuraComponent/navigateToAuraComponent.js": {
+            "serverRevisionCounter": 653,
+            "lastRetrievedFromServer": 653,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "CustomTab__Base_Components": {
+            "serverRevisionCounter": 665,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Base_Components": {
+            "serverRevisionCounter": 674,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__recordViewFormDemo": {
+            "serverRevisionCounter": 846,
+            "lastRetrievedFromServer": 846,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordViewFormDemo/recordViewFormDemo.html": {
+            "serverRevisionCounter": 847,
+            "lastRetrievedFromServer": 847,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordViewFormDemo/recordViewFormDemo.js-meta.xml": {
+            "serverRevisionCounter": 848,
+            "lastRetrievedFromServer": 848,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordViewFormDemo/recordViewFormDemo.js": {
+            "serverRevisionCounter": 849,
+            "lastRetrievedFromServer": 849,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__recordEditFormDemo": {
+            "serverRevisionCounter": 885,
+            "lastRetrievedFromServer": 885,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordEditFormDemo/recordEditFormDemo.js-meta.xml": {
+            "serverRevisionCounter": 886,
+            "lastRetrievedFromServer": 886,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordEditFormDemo/recordEditFormDemo.js": {
+            "serverRevisionCounter": 888,
+            "lastRetrievedFromServer": 888,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordEditFormDemo/recordEditFormDemo.html": {
+            "serverRevisionCounter": 887,
+            "lastRetrievedFromServer": 887,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__recordEditFormCustomDemo": {
+            "serverRevisionCounter": 893,
+            "lastRetrievedFromServer": 893,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordEditFormCustomDemo/recordEditFormCustomDemo.js": {
+            "serverRevisionCounter": 894,
+            "lastRetrievedFromServer": 894,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordEditFormCustomDemo/recordEditFormCustomDemo.js-meta.xml": {
+            "serverRevisionCounter": 895,
+            "lastRetrievedFromServer": 895,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recordEditFormCustomDemo/recordEditFormCustomDemo.html": {
+            "serverRevisionCounter": 896,
+            "lastRetrievedFromServer": 896,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__wireUserDetailDemo": {
+            "serverRevisionCounter": 966,
+            "lastRetrievedFromServer": 966,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__wireUserDetailDemo/wireUserDetailDemo.js-meta.xml": {
+            "serverRevisionCounter": 967,
+            "lastRetrievedFromServer": 967,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__wireUserDetailDemo/wireUserDetailDemo.html": {
+            "serverRevisionCounter": 968,
+            "lastRetrievedFromServer": 968,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__wireUserDetailDemo/wireUserDetailDemo.js": {
+            "serverRevisionCounter": 969,
+            "lastRetrievedFromServer": 969,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "CustomTab__Wire_Service": {
+            "serverRevisionCounter": 920,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Wire_Service": {
+            "serverRevisionCounter": 929,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__getObjectInfoAdapterDemo": {
+            "serverRevisionCounter": 984,
+            "lastRetrievedFromServer": 984,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__getObjectInfoAdapterDemo/getObjectInfoAdapterDemo.js-meta.xml": {
+            "serverRevisionCounter": 985,
+            "lastRetrievedFromServer": 985,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__getObjectInfoAdapterDemo/getObjectInfoAdapterDemo.html": {
+            "serverRevisionCounter": 986,
+            "lastRetrievedFromServer": 986,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__getObjectInfoAdapterDemo/getObjectInfoAdapterDemo.js": {
+            "serverRevisionCounter": 987,
+            "lastRetrievedFromServer": 987,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        }
+    }
+}
