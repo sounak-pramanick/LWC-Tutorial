@@ -3,9 +3,9 @@
         <lightning-card title="Memory Game">
             <div class="slds-var-p-around_medium">
                 <section class="score-panel">
-                    <span class="moves">1</span> Move(s)
-                    <span class="timer">10 seconds</span>
-                    <span class="restart">
+                    <span class="moves">{moves}</span> Move(s)
+                    <span class="timer">{totalTime}</span>
+                    <span class="restart" onclick={shuffle}>
                         <i class="fa fa-repeat" aria-hidden="true"></i>
                     </span>
                 </section>
