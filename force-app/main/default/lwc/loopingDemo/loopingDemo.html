@@ -1,0 +1,25 @@
+<template>
+    <lightning-card title="Template Looping Demo">
+        <div class="slds-var-m-around_medium">
+            <template for:each={carList} for:item="car">
+                <div key={car} class="slds-box slds-box_small slds-var-m-around_x-small">{car}</div>
+            </template>
+        </div>
+    </lightning-card>
+
+    <lightning-card title="Template Looping with array of objects">
+        <div class="slds-var-m-around_medium">
+            <template for:each={ceoList} for:item="ceo">
+                <div key={ceo.id} class="slds-box slds-box_small slds-var-m-around_x-small"><strong>{ceo.company}</strong> - {ceo.name}</div>
+            </template>
+        </div>
+    </lightning-card>
+
+    <lightning-card title="Iterator looping">
+        <div class="slds-var-m-around_medium">
+            <template iterator:ceo={ceoList}>
+                <div key={ceo.value.id} class="slds-box slds-box_small slds-var-m-around_x-small">{ceo.value.company} - {ceo.value.name}</div>
+            </template>
+        </div>
+    </lightning-card>
+</template>
